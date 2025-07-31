@@ -156,7 +156,7 @@ function App() {
             <BookDetail bookData={bookDetail} />
           ) : (
             <div className="text-center py-20 text-gray-600">
-              Error loading book details
+              Error loading book detailssssss
             </div>
           )
         ) : (
